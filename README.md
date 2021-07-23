@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning how to use github(version, backup, collaborate)
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me amywinehouse_@naver.com
+- 📫 연락방법 amywinehouse@naver.com
 
 <!---
 thecoder10000/thecoder10000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
